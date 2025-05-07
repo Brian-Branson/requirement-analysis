@@ -14,3 +14,6 @@ Requirement Validation. - Confirming that the requiremnts gathered reflect stake
                                                                       Types of Requirements 
 Functional requirements - these are things which describe what the program should be able to do eg user registration
 Non-functional requirements - These describe how the program should perform eg the program should be able to load up within 2 seconds
+                                                                   
+                                                                      Acceptance Criteria
+These are specific qualifications a certain aspect should meet for stakeholder validation eg user registration should be able to save the loin info to database and send confirmation email in mintues
